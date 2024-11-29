@@ -1,6 +1,4 @@
 bin/
 obj/
 /packages/
-riderModule.iml
-/_ReSharper.Caches/
 bin/Debug/net8.0
